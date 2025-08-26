@@ -1,0 +1,32 @@
+Title: WiFi Connection Troubleshooting Guide
+
+Common WiFi connection issues and solutions:
+
+1. Device not detecting WiFi network:
+   - Ensure WiFi is enabled on your device
+   - Check if the network is broadcasting (not hidden)
+   - Restart your device's WiFi adapter
+   - Move closer to the router
+
+2. Connected but no internet access:
+   - Restart your modem and router (unplug for 30 seconds)
+   - Check if other devices have internet access
+   - Run network diagnostics on your device
+   - Contact your ISP if the issue persists
+
+3. Slow WiFi speeds:
+   - Check for interference from other devices
+   - Update your WiFi drivers
+   - Change WiFi channel (1, 6, or 11 for 2.4GHz)
+   - Consider upgrading to 5GHz band
+
+4. Frequent disconnections:
+   - Update device drivers
+   - Check power management settings
+   - Replace old router if over 5 years old
+   - Check for overheating issues
+
+Error codes:
+- Error 651: PPP connection issue, restart modem
+- Error 678: Remote computer not responding, check cables
+- DNS errors: Try 8.8.8.8 or 1.1.1.1 as DNS servers

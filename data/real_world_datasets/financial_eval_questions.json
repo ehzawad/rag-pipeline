@@ -1,0 +1,61 @@
+[
+  {
+    "question": "What was Apple's Q4 2023 revenue?",
+    "expected_answer": "$89.5 billion",
+    "relevant_docs": [
+      "financial_doc_1.txt"
+    ],
+    "category": "financial_metrics"
+  },
+  {
+    "question": "How much did Microsoft's Intelligent Cloud revenue grow in Q1 2024?",
+    "expected_answer": "19% to $24.3 billion",
+    "relevant_docs": [
+      "financial_doc_2.txt"
+    ],
+    "category": "financial_metrics"
+  },
+  {
+    "question": "How many vehicles did Tesla deliver in Q3 2023?",
+    "expected_answer": "Approximately 435,000 vehicles",
+    "relevant_docs": [
+      "financial_doc_3.txt"
+    ],
+    "category": "operational_metrics"
+  },
+  {
+    "question": "What was Amazon's AWS revenue in Q2 2023?",
+    "expected_answer": "$22.1 billion, up 12% year-over-year",
+    "relevant_docs": [
+      "financial_doc_4.txt"
+    ],
+    "category": "financial_metrics"
+  },
+  {
+    "question": "What is the current federal funds rate as of March 2024?",
+    "expected_answer": "5.25%-5.50% range",
+    "relevant_docs": [
+      "financial_doc_5.txt"
+    ],
+    "category": "monetary_policy"
+  },
+  {
+    "question": "Which companies showed the highest revenue growth?",
+    "expected_answer": "Microsoft with 13% growth and Amazon with 11% growth",
+    "relevant_docs": [
+      "financial_doc_1.txt",
+      "financial_doc_2.txt",
+      "financial_doc_4.txt"
+    ],
+    "category": "comparative_analysis"
+  },
+  {
+    "question": "What are the key trends in cloud services revenue?",
+    "expected_answer": "Strong growth with Microsoft Azure growing 29% and AWS growing 12%",
+    "relevant_docs": [
+      "financial_doc_2.txt",
+      "financial_doc_4.txt"
+    ],
+    "category": "trend_analysis"
+  }
+]

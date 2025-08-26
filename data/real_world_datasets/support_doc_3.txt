@@ -1,0 +1,41 @@
+Title: Email Configuration and Troubleshooting
+
+Email setup and common issues:
+
+IMAP/POP3 Configuration:
+Gmail:
+- IMAP: imap.gmail.com, port 993 (SSL)
+- SMTP: smtp.gmail.com, port 587 (TLS)
+- Enable 2-factor authentication and app passwords
+
+Outlook/Hotmail:
+- IMAP: outlook.office365.com, port 993
+- SMTP: smtp-mail.outlook.com, port 587
+- Use OAuth2 authentication when possible
+
+Common email problems:
+1. Cannot send emails:
+   - Check SMTP settings and authentication
+   - Verify port numbers and encryption
+   - Check with ISP about port blocking
+
+2. Not receiving emails:
+   - Check spam/junk folders
+   - Verify email filters and rules
+   - Check mailbox storage limits
+
+3. Sync issues:
+   - Update email client software
+   - Remove and re-add email account
+   - Check server status with provider
+
+4. Authentication errors:
+   - Update passwords after security changes
+   - Enable less secure apps (if required)
+   - Use app-specific passwords for 2FA accounts
+
+Troubleshooting steps:
+- Test with webmail first
+- Check firewall and antivirus settings
+- Try different email client
+- Contact email provider support

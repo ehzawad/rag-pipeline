@@ -1,0 +1,42 @@
+[
+  {
+    "query": "What is artificial intelligence?",
+    "expected_answer": "Artificial intelligence is a field of computer science focused on creating systems capable of performing tasks that typically require human intelligence.",
+    "relevant_docs": [
+      "Artificial Intelligence (AI) is a field of computer science"
+    ],
+    "k": 3
+  },
+  {
+    "query": "What are the main features of Python?",
+    "expected_answer": "Python's main features include simplicity, readability, extensive libraries, and cross-platform compatibility.",
+    "relevant_docs": [
+      "Python is a high-level programming language known for its simplicity"
+    ],
+    "k": 3
+  },
+  {
+    "query": "How is machine learning related to AI?",
+    "expected_answer": "Machine learning is a subset of AI that focuses on algorithms that can learn from data.",
+    "relevant_docs": [
+      "Machine learning is a subset of AI"
+    ],
+    "k": 3
+  },
+  {
+    "query": "What is deep learning?",
+    "expected_answer": "Deep learning uses neural networks with multiple layers to model complex patterns in data.",
+    "relevant_docs": [
+      "Deep learning uses neural networks"
+    ],
+    "k": 3
+  },
+  {
+    "query": "What programming languages are good for data science?",
+    "expected_answer": "Python is widely used in data science due to its extensive ecosystem of libraries.",
+    "relevant_docs": [
+      "Python is widely used in web development, data science"
+    ],
+    "k": 3
+  }
+]

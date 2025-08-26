@@ -1,0 +1,192 @@
+{
+  "evaluation_summary": {
+    "test_queries_count": 5,
+    "evaluation_timestamp": 1756242095.0859892,
+    "pipeline_model": "gpt-5-mini"
+  },
+  "retrieval_evaluation": {
+    "retrieval_metrics": {
+      "average_precision": 0.0,
+      "average_recall": 0.0,
+      "average_f1": 0,
+      "average_mrr": 0.0,
+      "average_ndcg": 0.0
+    },
+    "per_query_results": [
+      {
+        "query": "What is artificial intelligence?",
+        "precision": 0,
+        "recall": 0.0,
+        "mrr": 0,
+        "ndcg": 0.0,
+        "retrieved_count": 0,
+        "expected_count": 1
+      },
+      {
+        "query": "What are the main features of Python?",
+        "precision": 0,
+        "recall": 0.0,
+        "mrr": 0,
+        "ndcg": 0.0,
+        "retrieved_count": 0,
+        "expected_count": 1
+      },
+      {
+        "query": "How is machine learning related to AI?",
+        "precision": 0,
+        "recall": 0.0,
+        "mrr": 0,
+        "ndcg": 0.0,
+        "retrieved_count": 0,
+        "expected_count": 1
+      },
+      {
+        "query": "What is deep learning?",
+        "precision": 0,
+        "recall": 0.0,
+        "mrr": 0,
+        "ndcg": 0.0,
+        "retrieved_count": 0,
+        "expected_count": 1
+      },
+      {
+        "query": "What programming languages are good for data science?",
+        "precision": 0,
+        "recall": 0.0,
+        "mrr": 0,
+        "ndcg": 0.0,
+        "retrieved_count": 0,
+        "expected_count": 1
+      }
+    ],
+    "total_queries": 5
+  },
+  "generation_evaluation": {
+    "generation_metrics": {
+      "average_response_time": 8.283291387557984,
+      "average_token_usage": 563.0,
+      "average_word_overlap": 0.0,
+      "average_relevance_score": 0.0,
+      "total_token_usage": 2815
+    },
+    "per_query_results": [
+      {
+        "query": "What is artificial intelligence?",
+        "generated_answer": "",
+        "expected_answer": "Artificial intelligence is a field of computer science focused on creating systems capable of performing tasks that typically require human intelligence.",
+        "response_time": 8.9187171459198,
+        "token_usage": 561,
+        "answer_length": 0,
+        "word_overlap": 0.0,
+        "relevance_score": 0.0,
+        "context_used": false
+      },
+      {
+        "query": "What are the main features of Python?",
+        "generated_answer": "",
+        "expected_answer": "Python's main features include simplicity, readability, extensive libraries, and cross-platform compatibility.",
+        "response_time": 7.571905851364136,
+        "token_usage": 564,
+        "answer_length": 0,
+        "word_overlap": 0.0,
+        "relevance_score": 0.0,
+        "context_used": false
+      },
+      {
+        "query": "How is machine learning related to AI?",
+        "generated_answer": "",
+        "expected_answer": "Machine learning is a subset of AI that focuses on algorithms that can learn from data.",
+        "response_time": 8.293477058410645,
+        "token_usage": 564,
+        "answer_length": 0,
+        "word_overlap": 0.0,
+        "relevance_score": 0.0,
+        "context_used": false
+      },
+      {
+        "query": "What is deep learning?",
+        "generated_answer": "",
+        "expected_answer": "Deep learning uses neural networks with multiple layers to model complex patterns in data.",
+        "response_time": 8.89835786819458,
+        "token_usage": 561,
+        "answer_length": 0,
+        "word_overlap": 0.0,
+        "relevance_score": 0.0,
+        "context_used": false
+      },
+      {
+        "query": "What programming languages are good for data science?",
+        "generated_answer": "",
+        "expected_answer": "Python is widely used in data science due to its extensive ecosystem of libraries.",
+        "response_time": 7.733999013900757,
+        "token_usage": 565,
+        "answer_length": 0,
+        "word_overlap": 0.0,
+        "relevance_score": 0.0,
+        "context_used": false
+      }
+    ],
+    "total_queries": 5
+  },
+  "end_to_end_evaluation": {
+    "end_to_end_metrics": {
+      "average_pipeline_time": 9.146552181243896,
+      "average_response_quality": 0.0,
+      "average_context_relevance": 0.0,
+      "total_pipeline_time": 45.73276090621948
+    },
+    "per_query_results": [
+      {
+        "query": "What is artificial intelligence?",
+        "response": "",
+        "pipeline_time": 8.418246030807495,
+        "documents_retrieved": 0,
+        "response_quality": 0.0,
+        "context_relevance": 0.0,
+        "token_usage": 561,
+        "sources_count": 0
+      },
+      {
+        "query": "What are the main features of Python?",
+        "response": "",
+        "pipeline_time": 11.56024694442749,
+        "documents_retrieved": 0,
+        "response_quality": 0.0,
+        "context_relevance": 0.0,
+        "token_usage": 564,
+        "sources_count": 0
+      },
+      {
+        "query": "How is machine learning related to AI?",
+        "response": "",
+        "pipeline_time": 9.161742925643921,
+        "documents_retrieved": 0,
+        "response_quality": 0.0,
+        "context_relevance": 0.0,
+        "token_usage": 564,
+        "sources_count": 0
+      },
+      {
+        "query": "What is deep learning?",
+        "response": "",
+        "pipeline_time": 7.270532131195068,
+        "documents_retrieved": 0,
+        "response_quality": 0.0,
+        "context_relevance": 0.0,
+        "token_usage": 561,
+        "sources_count": 0
+      },
+      {
+        "query": "What programming languages are good for data science?",
+        "response": "",
+        "pipeline_time": 9.321992874145508,
+        "documents_retrieved": 0,
+        "response_quality": 0.0,
+        "context_relevance": 0.0,
+        "token_usage": 565,
+        "sources_count": 0
+      }
+    ],
+    "total_queries": 5
+  }
+}

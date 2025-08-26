@@ -1,0 +1,181 @@
+{
+  "total_questions": 12,
+  "aggregate_metrics": {
+    "avg_retrieval_time_ms": 50.1132607460022,
+    "avg_generation_time_ms": 3548.9800771077475,
+    "avg_total_time_ms": 3599.0933378537497,
+    "avg_retrieval_accuracy": 0.0,
+    "avg_answer_relevance": 0.0,
+    "avg_answer_accuracy": 0.0,
+    "p95_total_time_ms": 4159.762692451477,
+    "p99_total_time_ms": 4233.03343296051,
+    "success_rate": 1.0
+  },
+  "benchmark_comparison": {
+    "avg_retrieval_time_ms": {
+      "actual": 50.1132607460022,
+      "target": 100,
+      "meets_benchmark": true,
+      "performance_ratio": 1.995479809363184,
+      "status": "PASS"
+    },
+    "avg_generation_time_ms": {
+      "actual": 3548.9800771077475,
+      "target": 2000,
+      "meets_benchmark": false,
+      "performance_ratio": 0.5635421886137795,
+      "status": "FAIL"
+    },
+    "avg_total_time_ms": {
+      "actual": 3599.0933378537497,
+      "target": 3000,
+      "meets_benchmark": false,
+      "performance_ratio": 0.833543261700735,
+      "status": "FAIL"
+    },
+    "avg_retrieval_accuracy": {
+      "actual": 0.0,
+      "target": 0.85,
+      "meets_benchmark": false,
+      "performance_ratio": 0.0,
+      "status": "FAIL"
+    },
+    "avg_answer_relevance": {
+      "actual": 0.0,
+      "target": 0.8,
+      "meets_benchmark": false,
+      "performance_ratio": 0.0,
+      "status": "FAIL"
+    },
+    "avg_answer_accuracy": {
+      "actual": 0.0,
+      "target": 0.75,
+      "meets_benchmark": false,
+      "performance_ratio": 0.0,
+      "status": "FAIL"
+    }
+  },
+  "category_breakdown": {
+    "financial_metrics": {
+      "avg_retrieval_time_ms": 57.3577086130778,
+      "avg_generation_time_ms": 3813.117186228434,
+      "avg_total_time_ms": 3870.474894841512,
+      "avg_retrieval_accuracy": 0.0,
+      "avg_answer_relevance": 0.0,
+      "avg_answer_accuracy": 0.0,
+      "p95_total_time_ms": 4234.698677062988,
+      "p99_total_time_ms": 4248.0206298828125,
+      "success_rate": 1.0
+    },
+    "operational_metrics": {
+      "avg_retrieval_time_ms": 55.114030838012695,
+      "avg_generation_time_ms": 3939.5530223846436,
+      "avg_total_time_ms": 3994.6670532226562,
+      "avg_retrieval_accuracy": 0.0,
+      "avg_answer_relevance": 0.0,
+      "avg_answer_accuracy": 0.0,
+      "p95_total_time_ms": 3994.6670532226562,
+      "p99_total_time_ms": 3994.6670532226562,
+      "success_rate": 1.0
+    },
+    "monetary_policy": {
+      "avg_retrieval_time_ms": 56.34307861328125,
+      "avg_generation_time_ms": 3427.107810974121,
+      "avg_total_time_ms": 3483.4508895874023,
+      "avg_retrieval_accuracy": 0.0,
+      "avg_answer_relevance": 0.0,
+      "avg_answer_accuracy": 0.0,
+      "p95_total_time_ms": 3483.4508895874023,
+      "p99_total_time_ms": 3483.4508895874023,
+      "success_rate": 1.0
+    },
+    "comparative_analysis": {
+      "avg_retrieval_time_ms": 50.44198036193848,
+      "avg_generation_time_ms": 3226.7792224884033,
+      "avg_total_time_ms": 3277.221202850342,
+      "avg_retrieval_accuracy": 0.0,
+      "avg_answer_relevance": 0.0,
+      "avg_answer_accuracy": 0.0,
+      "p95_total_time_ms": 3277.221202850342,
+      "p99_total_time_ms": 3277.221202850342,
+      "success_rate": 1.0
+    },
+    "trend_analysis": {
+      "avg_retrieval_time_ms": 52.453041076660156,
+      "avg_generation_time_ms": 3412.973165512085,
+      "avg_total_time_ms": 3465.426206588745,
+      "avg_retrieval_accuracy": 0.0,
+      "avg_answer_relevance": 0.0,
+      "avg_answer_accuracy": 0.0,
+      "p95_total_time_ms": 3465.426206588745,
+      "p99_total_time_ms": 3465.426206588745,
+      "success_rate": 1.0
+    },
+    "connectivity_issues": {
+      "avg_retrieval_time_ms": 50.392985343933105,
+      "avg_generation_time_ms": 3658.952474594116,
+      "avg_total_time_ms": 3709.3454599380493,
+      "avg_retrieval_accuracy": 0.0,
+      "avg_answer_relevance": 0.0,
+      "avg_answer_accuracy": 0.0,
+      "p95_total_time_ms": 3810.4978919029236,
+      "p99_total_time_ms": 3819.48921918869,
+      "success_rate": 1.0
+    },
+    "installation_errors": {
+      "avg_retrieval_time_ms": 50.334930419921875,
+      "avg_generation_time_ms": 3124.521255493164,
+      "avg_total_time_ms": 3174.856185913086,
+      "avg_retrieval_accuracy": 0.0,
+      "avg_answer_relevance": 0.0,
+      "avg_answer_accuracy": 0.0,
+      "p95_total_time_ms": 3174.856185913086,
+      "p99_total_time_ms": 3174.856185913086,
+      "success_rate": 1.0
+    },
+    "email_configuration": {
+      "avg_retrieval_time_ms": 31.039953231811523,
+      "avg_generation_time_ms": 3654.505968093872,
+      "avg_total_time_ms": 3685.5459213256836,
+      "avg_retrieval_accuracy": 0.0,
+      "avg_answer_relevance": 0.0,
+      "avg_answer_accuracy": 0.0,
+      "p95_total_time_ms": 3685.5459213256836,
+      "p99_total_time_ms": 3685.5459213256836,
+      "success_rate": 1.0
+    },
+    "update_issues": {
+      "avg_retrieval_time_ms": 32.77301788330078,
+      "avg_generation_time_ms": 3045.0639724731445,
+      "avg_total_time_ms": 3077.8369903564453,
+      "avg_retrieval_accuracy": 0.0,
+      "avg_answer_relevance": 0.0,
+      "avg_answer_accuracy": 0.0,
+      "p95_total_time_ms": 3077.8369903564453,
+      "p99_total_time_ms": 3077.8369903564453,
+      "success_rate": 1.0
+    }
+  },
+  "performance_distribution": {
+    "time_distribution": {
+      "min": 3077.8369903564453,
+      "max": 4251.351118087769,
+      "median": 3540.2023792266846,
+      "std": 361.2833796046509
+    },
+    "accuracy_distribution": {
+      "min": 0.0,
+      "max": 0.0,
+      "median": 0.0,
+      "std": 0.0
+    },
+    "slow_queries": 12,
+    "low_accuracy_queries": 12
+  },
+  "recommendations": [
+    "PERFORMANCE: Consider optimizing retrieval speed or implementing caching",
+    "RETRIEVAL: Improve document chunking strategy or embedding model",
+    "GENERATION: Fine-tune prompts or consider using a larger language model",
+    "RELEVANCE: Enhance context selection and prompt engineering"
+  ]
+}

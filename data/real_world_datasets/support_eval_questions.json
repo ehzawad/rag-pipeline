@@ -1,0 +1,42 @@
+[
+  {
+    "question": "My WiFi is connected but I have no internet access. What should I do?",
+    "expected_answer": "Restart your modem and router by unplugging for 30 seconds, check if other devices have internet access, run network diagnostics, and contact your ISP if the issue persists.",
+    "relevant_docs": [
+      "support_doc_1.txt"
+    ],
+    "category": "connectivity_issues"
+  },
+  {
+    "question": "I'm getting error code 0x80070005 during software installation. How do I fix this?",
+    "expected_answer": "Error 0x80070005 means access denied. Run the installer as administrator to resolve this issue.",
+    "relevant_docs": [
+      "support_doc_2.txt"
+    ],
+    "category": "installation_errors"
+  },
+  {
+    "question": "What are the SMTP settings for Gmail?",
+    "expected_answer": "Gmail SMTP: smtp.gmail.com, port 587 with TLS encryption. Enable 2-factor authentication and use app passwords.",
+    "relevant_docs": [
+      "support_doc_3.txt"
+    ],
+    "category": "email_configuration"
+  },
+  {
+    "question": "My WiFi keeps disconnecting frequently. What could be the cause?",
+    "expected_answer": "Frequent disconnections can be caused by outdated drivers, power management settings, old router (over 5 years), or overheating issues. Update drivers and check power settings first.",
+    "relevant_docs": [
+      "support_doc_1.txt"
+    ],
+    "category": "connectivity_issues"
+  },
+  {
+    "question": "Windows Update is stuck. How can I fix it?",
+    "expected_answer": "Run Windows Update troubleshooter, reset Windows Update components, or clear the update cache folder.",
+    "relevant_docs": [
+      "support_doc_2.txt"
+    ],
+    "category": "update_issues"
+  }
+]

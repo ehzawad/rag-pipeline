@@ -1,0 +1,9 @@
+Artificial Intelligence (AI) is a field of computer science that focuses on creating systems capable of performing tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, perception, and language understanding.
+
+Machine learning is a subset of AI that involves training algorithms to recognize patterns in data and make predictions or decisions without being explicitly programmed for each specific task. There are three main types of machine learning: supervised learning, unsupervised learning, and reinforcement learning.
+
+Deep learning uses neural networks with multiple layers to model complex patterns in data. It's particularly effective for tasks like image recognition, natural language processing, and speech recognition. Popular deep learning frameworks include TensorFlow and PyTorch.
+
+Natural Language Processing (NLP) combines AI and linguistics to help computers understand, interpret, and generate human language. Applications include language translation, sentiment analysis, chatbots, and text summarization.
+
+Computer vision is a field of AI that trains computers to interpret and understand visual information from the world. It involves techniques for image recognition, object detection, facial recognition, and scene understanding.
