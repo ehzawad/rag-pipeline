@@ -249,3 +249,5 @@ For issues and questions:
 ---
 
 **Built with**: LangChain, Sentence Transformers, FAISS, OpenAI GPT, and Python
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/ehzawad/rag-pipeline)
